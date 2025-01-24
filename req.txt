@@ -1,0 +1,16 @@
+certifi
+charset-normalizer
+coloredlogs
+humanfriendly
+idna
+psutil
+pydub
+PyQt5
+PyQt5-Qt5
+PyQt5_sip
+PyQtWebEngine
+PyQtWebEngine-Qt5
+pyreadline3
+requests
+urllib3
+xmltodict
